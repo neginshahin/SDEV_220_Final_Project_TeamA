@@ -1,0 +1,9 @@
+# PyQt5 for the graphical user interface
+PyQt5==5.15.4
+PyQt5-tools==5.15.4
+
+# SQLite for the database
+# Note: SQLite is included in the standard library, so you don't need to explicitly specify it
+
+# Specify the Python version (adjust as needed)
+python==3.8
